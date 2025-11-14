@@ -46,8 +46,6 @@ db_name = 'postgres'
 ```bash
 python main.py
 ```
-<<<<<<< HEAD
-=======
 
 ## 8. Postgres Database
 Run the query:
@@ -55,4 +53,4 @@ Run the query:
 SELECT * 
 FROM public.employee_table;
 ```
->>>>>>> 5c6bc05 (Optimised)
+
